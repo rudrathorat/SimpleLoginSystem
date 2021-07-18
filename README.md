@@ -1,7 +1,5 @@
 # Simple-Login-System
 The code below is my latest attempt to solve a practice question from the book.
-Keep in mind I am less than a week into C++ and have minimal knowledge of variables, conditionals, loops, and functions.
-
 
 Code Description:
 -This program asks the user to enter a user name and password (which I have already pre-defined in the code).
