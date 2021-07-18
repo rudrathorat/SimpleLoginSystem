@@ -1,4 +1,4 @@
-# Simple-Login-System
+# Simple Login System
 The code below is my latest attempt to solve a practice question from the book.
 
 Code Description:
